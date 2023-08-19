@@ -53,6 +53,9 @@ html,body{
 }
 #pbtm{
     display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
     gap: 10px;
     flex-wrap: wrap;
     padding: 20px;
